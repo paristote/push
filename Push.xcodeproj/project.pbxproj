@@ -399,7 +399,7 @@
 				INFOPLIST_FILE = Push/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.philippe.Push;
+				PRODUCT_BUNDLE_IDENTIFIER = com.philipoy.ios.push;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -411,7 +411,7 @@
 				INFOPLIST_FILE = Push/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.philippe.Push;
+				PRODUCT_BUNDLE_IDENTIFIER = com.philipoy.ios.push;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -483,6 +483,7 @@
 				574A555C1BDA3A5800851E48 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		574A555D1BDA3A5800851E48 /* Build configuration list for PBXNativeTarget "PushTests" */ = {
 			isa = XCConfigurationList;
@@ -491,6 +492,7 @@
 				574A555F1BDA3A5800851E48 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		574A55601BDA3A5800851E48 /* Build configuration list for PBXNativeTarget "PushUITests" */ = {
 			isa = XCConfigurationList;
@@ -499,6 +501,7 @@
 				574A55621BDA3A5800851E48 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
